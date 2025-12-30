@@ -1,0 +1,23 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20251130171102
+Nombre de usuario: bbvacosg\CE37757
+Usuario RunAs: bbvacosg\CE37757
+Nombre de la configuración: 
+Máquina: COL-GT672690339 (Microsoft Windows NT 10.0.26100.0)
+Aplicación host: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -executionPolicy bypass -file C:\WINDOWS\IMECache\HealthScripts\2a5e733a-967a-4761-ac94-39eecc3b72fb_2\detect.ps1
+Id. de proceso: 21840
+PSVersion: 5.1.26100.6899
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.6899
+BuildVersion: 10.0.26100.6899
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+PS>CommandInvocation(detect.ps1): "detect.ps1"
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20251130171103
+**********************
